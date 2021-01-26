@@ -2,3 +2,9 @@ body{
     background-color: (#FFEFD5);
     color: (#8B4513);
 }
+
+table tr td{
+    width: 300px;
+    border: 1px black solid;
+    vertical-align: auto;
+}
