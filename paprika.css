@@ -9,7 +9,7 @@ table tr td{
     border: 1px black solid;
     vertical-align: auto;
 }
-.div1
+#div1
 {
-background-image: url(szines.jpg);
+background-image: url(szines.jpg) no-repeat;
 }
