@@ -11,5 +11,5 @@ table tr td{
 }
 .div1
 {
-background-image: "szines.jpg";
+background-image: url(szines.jpg);
 }
