@@ -9,15 +9,20 @@ table tr td{
     border: 1px black solid;
     vertical-align: auto;
 }
-#div1
+.fejlec
 {
-background-image: url(szines.jpg) no-repeat;
+background-image: url(szines.jpg);
+background-repeat: no-repeat;
+background-position: center;
+
 }
 
-section{
+.menu{
     float: right;
+    margin-right: 100px;
 }
 
-article{
+.fokeret{
     float: right;
+    margin-right: 100px;
 }
