@@ -1,28 +1,60 @@
 body
 {
-    background-color: (#FFEFD5);
+    background-color: papayawhip;
     color: (#8B4513);
+    margin: auto;
+    padding: 100px;
 }
 
-table tr td{
+table tr td {
     width: 300px;
     border: 1px black solid;
-    vertical-align: auto;
+    height: 50px;
+    float: center;
 }
 .fejlec
 {
 background-image: url(szines.jpg);
 background-repeat: no-repeat;
 background-position: center;
-
+background-size: cover;
+height: 200px;
+padding-left: 10px;
 }
 
 .menu{
     float: right;
-    margin-right: 100px;
+    margin-right: 350px;
+    width: 47%;
+    text-align: left;
+    
+    
 }
 
 .fokeret{
     float: right;
-    margin-right: 100px;
+    margin-right: 350px;
+    width: 47%;
+    text-align: left;
+}
+h1{
+   padding: 60px;
+   color: (#8B4513);
+}
+
+ul{
+    list-style-image: url(chili-pepper-icon.gif) ;
+    position: relative;
+    float: left;
+    text-align: left;
+    
+    
+}
+li{
+    float: left;
+    width: 200px;
+    height: 75px;
+     margin: 10px;
+    border: 3px solid rgb(54, 90, 131);
+    background-color: rgb(149, 192, 216);
 }
