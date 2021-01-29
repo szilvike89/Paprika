@@ -25,7 +25,7 @@ height: 200px;
 }
 .tartalom
 {
-    margin-right: 1300px;
+    
     margin-left: 40px;
     align-self: bottom;
     
@@ -62,19 +62,18 @@ ul{
     
 }
 li{
-    float: left;
+    
     width: 200px;
     height: 75px;
     margin: 10px;
-    border: 3px solid rgb(54, 90, 131);
-    background-color: rgb(187, 216, 231);
+    border: 3px solid rgb(127, 168, 216);
+    background-color: rgb(182, 207, 219);
     vertical-align: bottom;
-    display: table-cell;
-} 
+}  
 
 a{
- text-decoration: none; 
- padding: 45px 0 0 10px;
+text-decoration: none; 
+padding: 45px 0 0 10px;
 display: block; 
 color: black;
 }
